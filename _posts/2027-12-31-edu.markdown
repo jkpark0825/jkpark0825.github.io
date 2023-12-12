@@ -11,11 +11,12 @@ I am Ph.D student advised by <a href="https://cv.snu.ac.kr/index.php/faculty//">
 I am interested in deep learning and computer vision, exploring human 3D reconstruction and image restoration, combining high-level and low-level tasks in my recent research.
 Currently, I am focused on creating an image restoration dataset that aligns with general images and developing a model to predict visually pleasing results.
 
+---
 ## Education
 - 2021-present : Integrated Ph.D. program, Electrical & Computer Engineering, Seoul National University.
 - 2015–2021 : Bachelor of Engineering, Electrical and Computer Engineering, Seoul National University.
 
-
+---
 ## Research Experience
 #### Reality Labs Research at Meta
 - 3D recovery from specific targets.
@@ -27,7 +28,7 @@ Currently, I am focused on creating an image restoration dataset that aligns wit
 - 9th Creative Design Festival: Untact AR Makeup.
 - Electrical Engineering Design Project: AE (Adversarial Examples) Generation with GAN. 
 
-
+---
 ## Invited Talks
 - <strong> AI Retreat, SNU, </strong> Recovering
 3d hand mesh sequence from a single blurry image: A new dataset and temporal unfolding, 2024.
@@ -36,6 +37,7 @@ Currently, I am focused on creating an image restoration dataset that aligns wit
 - <strong> LG AI Center, </strong> Occlusion-Robust 3D Hand Mesh Estimation Network, 2022.
 - <strong> AI Retreat, SNU, </strong> Occlusion-Robust 3D Hand Mesh Estimation Network, 2022.
 
+---
 ## Academic Services (Reviewer)
 - Conference : CVPR 2022, CVPR 2023, ICCV 2023, ICCVW 2023
 - Journal : TVCJ 2023
