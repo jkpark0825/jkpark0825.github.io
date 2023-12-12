@@ -15,6 +15,19 @@ Currently, I am focused on creating an image restoration dataset that aligns wit
 - 2021-present : Integrated Ph.D. program, Electrical & Computer Engineering, Seoul National University.
 - 2015–2021 : Bachelor of Engineering, Electrical and Computer Engineering, Seoul National University.
 
+
+## Research Experience
+# Reality Labs Research at Meta
+- 3D hand recovery from real blur: Building a dataset of real blurry hand images and creating a baseline network for it.
+
+# Seoul National University
+- Research Project with Samsung Research: Tunable SW ISP Algorithm.
+- Research Project with Samsung Research: Domain Adaptation for Oven Recipes.
+- College TA: Topics in Control and Automation.
+- 9th Creative Design Festival: Untact AR Makeup.
+- Electrical Engineering Design Project: AE (Adversarial Examples) Generation with GAN. 
+
+
 ## Invited Talks
 - <strong> AI Retreat, SNU, </strong> Recovering
 3d hand mesh sequence from a single blurry image: A new dataset and temporal unfolding, 2024.
