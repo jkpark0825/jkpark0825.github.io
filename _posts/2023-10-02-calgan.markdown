@@ -1,10 +1,17 @@
 ---
 layout: post
-title: Content-aware local gan for photo-realistic super-resolution. ICCV, 2023.
+title: Content-aware local gan for photo-realistic super-resolution. 
 date: 2023-10-02 13:32:20 +0300
-description: aaa # Add post description (optional)
+description: ICCV, 2023. # Add post description (optional)
 img: cal_gan.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
-tags: [ICCV]
+tags: [Image Super-Resolution, Image restoration, GAN]
 ---
-## Example
+## Abstract
+Recently, GAN has successfully contributed to making single-image super-resolution (SISR) methods produce more realistic images.
+However, natural images have complex distribution in the real world, and a single classifier in the discriminator may not have enough capacity to classify real and fake samples, making the preceding SR network generate unpleasing noise and artifacts.
+To solve the problem, we propose a novel content-aware local GAN framework, CAL-GAN, which processes a large and complicated distribution of real-world images by
+dividing them into smaller subsets based on similar contents.
+Our mixture of classifiers (MoC) design allocates different super-resolved patches to corresponding expert classifiers.
+Additionally, we introduce novel routing and orthogonality loss terms so that different classifiers can handle various contents and learn separable features.
+By feeding similar distributions into the corresponding specialized classifiers, CAL-GAN enhances the representation power of existing super-resolution models, achieving state-of-the-art perceptual performance on standard benchmarks and real-world images without modifying the generator-side architecture.
