@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Learning to estimate robust 3d human mesh from in-the-wild crowded scenes, CVPR, 2022.
+title: Learning to Estimate Robust 3d Human Mesh from in-the-wild Crowded Scenes, CVPR, 2022.
 date: 2022-06-19 13:32:20 +0300
 description: CVPR, 2022. # Add post description (optional)
 img: crowdnet.jpg # Add image post (optional)
