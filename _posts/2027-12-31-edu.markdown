@@ -17,10 +17,10 @@ Currently, I am focused on creating an image restoration dataset that aligns wit
 
 
 ## Research Experience
-# Reality Labs Research at Meta
+### Reality Labs Research at Meta
 - 3D hand recovery from real blur: Building a dataset of real blurry hand images and creating a baseline network for it.
 
-# Seoul National University
+### Seoul National University
 - Research Project with Samsung Research: Tunable SW ISP Algorithm.
 - Research Project with Samsung Research: Domain Adaptation for Oven Recipes.
 - College TA: Topics in Control and Automation.
