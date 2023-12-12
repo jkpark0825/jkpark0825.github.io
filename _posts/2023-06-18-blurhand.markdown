@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Recovering 3d hand mesh sequence from a single blurry image. A new dataset and temporal unfolding. CVPR, 2023.
+title: Recovering 3d hand mesh sequence from a single blurry image: A new dataset and temporal unfolding, CVPR, 2023.
 date: 2023-06-18 13:32:20 +0300
 description: CVPR, 2023. # Add post description (optional)
 img: blurhand.jpg # Add image post (optional)
