@@ -7,7 +7,6 @@ img: colanet.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [Image inpainting, Image restoration]
 ---
-## Abstract
 Face inpainting, the task of filling up missing regions in a face image plausibly, has witnessed great advances with deep learning-based approaches.
 To fill in the missing region, existing methods either use information from the surrounding visible region of the input image itself~(\ie, context) or use prior knowledge obtained from the training data~(\ie, latent).
 However, we find that exclusive usage of the two types of information is sub-optimal; whether the context-based approach is effective or the latent-based approach is effective is different for each missing region.
