@@ -7,6 +7,8 @@ img: rirn.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [Video Deblurring, RNNs]
 ---
+##### Joonkyu Park, Seungjun Nah, and Kyoung Mu Lee.
+
 State-of-the-art video deblurring methods often adopt recurrent neural networks to model the temporal dependency between the frames.
 While the hidden states play key role in delivering information to the next frame, abrupt motion blur tend to weaken the relevance in the neighbor frames.
 In this paper, we propose recurrence-in-recurrence network architecture to cope with the limitations of short-ranged memory.
