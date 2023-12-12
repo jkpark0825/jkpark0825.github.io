@@ -11,4 +11,10 @@ tags: #
 - 2021-present : Integrated Ph.D. program, Electrical & Computer Engineering, Seoul National University.
 - 2015–2021 : Bachelor of Engineering, Electrical and Computer Engineering, Seoul National University.
 
-##
+## Invited Talks
+- <strong> AI Retreat, SNU, </strong> Recovering
+3d hand mesh sequence from a single blurry image: A new dataset and temporal unfolding, 2024.
+- <strong> Qualcomm Korea, </strong> Occlusion-Robust 3D Hand Mesh Estimation Network. 2022.
+- <strong> Kakao Enterprise Corp, </strong> Occlusion-Robust 3D Hand Mesh Estimation Network, 2022.
+- <strong> LG AI Center, </strong> Occlusion-Robust 3D Hand Mesh Estimation Network, 2022.
+- <strong> AI Retreat, SNU, </strong> Occlusion-Robust 3D Hand Mesh Estimation Network, 2022.
