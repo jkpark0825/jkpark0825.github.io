@@ -7,6 +7,7 @@ img: handoccnet.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [3D hands, 3D humans, Occlusion-robust network]
 ---
+##### Joonkyu Park, Yeonguk Oh, Gyeongsik Moon, Hongsuk Choi, and Kyoung Mu Lee
 Hands are often severely occluded by objects, which makes 3D hand mesh estimation challenging.
 Previous works often have disregarded information at occluded regions.
 However, we argue that occluded regions have strong correlations with hands so that they can provide highly beneficial information for complete 3D hand mesh estimation.
