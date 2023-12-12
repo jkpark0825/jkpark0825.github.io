@@ -7,6 +7,8 @@ img: blurhand.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [Blurry hand, 3D hands, 3D humans]
 ---
+##### Yeonguk Oh*, Joonkyu Park*, Jaeha Kim*, Gyeongsik Moon, and Kyoung Mu Lee.
+
 Hands, one of the most dynamic parts of our body, suffer from blur due to their active movements.
 However, previous 3D hand mesh recovery methods have mainly focused on sharp hand images rather than considering blur due to the absence of datasets providing blurry hand images.
 We first present a novel dataset BlurHand, which contains blurry hand images with 3D groundtruths.
