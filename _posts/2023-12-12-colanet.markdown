@@ -1,10 +1,17 @@
 ---
 layout: post
-title: Adaptive context and latent information blending for face image inpainting. SPL, 2023.
+title: Adaptive context and latent information blending for face image inpainting.
 date: 2023-12-12 13:32:20 +0300
-description: aaa # Add post description (optional)
+description: SPL, 2023. # Add post description (optional)
 img: colanet.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
-tags: [SPL]
+tags: [Image inpainting, Image restoration]
 ---
-## Example
+## Abstract
+Face inpainting, the task of filling up missing regions in a face image plausibly, has witnessed great advances with deep learning-based approaches.
+To fill in the missing region, existing methods either use information from the surrounding visible region of the input image itself~(\ie, context) or use prior knowledge obtained from the training data~(\ie, latent).
+However, we find that exclusive usage of the two types of information is sub-optimal; whether the context-based approach is effective or the latent-based approach is effective is different for each missing region.
+To this end, we propose CoLaNet, a novel framework that adaptively blends context and latent information to inpaint face images.
+Specifically, the two types of information are balanced based on the attention between the missing region and the rest of the image.
+The regions strongly correlated to the visible region leverage context information more.
+Consequently, the adaptive utilization of context and latent information leads to better inpainting performance in various face images.
