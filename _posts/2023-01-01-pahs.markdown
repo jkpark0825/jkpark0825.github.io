@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pay attention to hidden states for video deblurring, Ping-pong recurrent neural networks and selective non-local attention.
+title: Pay attention to hidden states for video deblurring, Ping-pong recurrent neural networks and selective non-local attention, arXiv preprint, 2022.
 date: 2023-01-01 13:32:20 +0300
 description: arXiv preprint, arXiv:2203.16063, 2022. # Add post description (optional)
 img: pahs.jpg # Add image post (optional)
