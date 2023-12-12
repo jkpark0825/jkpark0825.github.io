@@ -1,10 +1,19 @@
 ---
 layout: post
-title: Recurrence-in-recurrence networks for video deblurring. BMVC, 2022.
+title: Recurrence-in-recurrence networks for video deblurring.
 date: 2022-12-08 13:32:20 +0300
-description: aaa # Add post description (optional)
+description: BMVC, 2022. # Add post description (optional)
 img: rirn.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
-tags: [BMVC]
+tags: [Video Deblurring, RNNs]
 ---
-## Example
+## Abstract
+State-of-the-art video deblurring methods often adopt recurrent neural networks to model the temporal dependency between the frames.
+While the hidden states play key role in delivering information to the next frame, abrupt motion blur tend to weaken the relevance in the neighbor frames.
+In this paper, we propose recurrence-in-recurrence network architecture to cope with the limitations of short-ranged memory.
+We employ additional recurrent units inside the RNN cell.
+First, we employ inner-recurrence module~(IRM) to manage the long-ranged dependency in a sequence.
+IRM learns to keep track of the cell memory and provides complementary information to find the deblurred frames.
+Second, we adopt an attention-based temporal blending strategy to extract the necessary part of the information in the local neighborhood.
+The adpative temporal blending~(ATB) can either attenuate or amplify the features by the spatial attention.
+Our extensive experimental results and analysis validate the effectiveness of IRM and ATB on various RNN architectures.
