@@ -1,3 +1,5 @@
+## Publications
+
 ---
 layout: post
 title: Adaptive context and latent information blending for face image inpainting. SPL, 2023.
