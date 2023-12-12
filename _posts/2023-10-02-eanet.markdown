@@ -7,6 +7,8 @@ img: eanet.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [3D reconstruction, 3D human, 3D Hand]
 ---
+##### Joonkyu Park*, Daniel Sungho Jung*, Gyeongsik Moon*, and Kyoung Mu Lee.
+
 Understanding how two hands interact with each other is a key component of accurate 3D interacting hand mesh recovery.
 However, recent Transformer-based methods struggle to learn the interaction between two hands as they directly utilize two hand features as input tokens, which results in distant token problem.
 The distant token problem represents that input tokens are in heterogeneous spaces, leading Transformer to fail in capturing correlation between input tokens.
