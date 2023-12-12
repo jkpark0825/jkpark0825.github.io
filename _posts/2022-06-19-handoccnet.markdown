@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Occlusion-robust 3d hand mesh estimation network, CVPR, 2022.
+title: Occlusion-Robust 3d Hand Mesh Estimation Network, CVPR, 2022.
 date: 2022-06-19 13:32:20 +0300
 description:  CVPR, 2022. # Add post description (optional)
 img: handoccnet.jpg # Add image post (optional)
