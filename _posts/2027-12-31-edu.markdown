@@ -1,9 +1,4 @@
 ## Personal Information
----
-layout: post
-title:  "Personal Information"
-date:   2027-12-31
----
 - the Ph.D's course
 - Department of ECE, SNU, Seoul, Korea
 - email: jkpark0825@snu.ac.kr
