@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Adaptive context and latent information blending for face image inpainting.
+title: Adaptive context and latent information blending for face image inpainting, SPL, 2023.
 date: 2023-12-12 13:32:20 +0300
 description: SPL, 2023. # Add post description (optional)
 img: colanet.jpg # Add image post (optional)
