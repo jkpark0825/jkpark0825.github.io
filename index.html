@@ -3,6 +3,7 @@ layout: main
 ---
 {% for post in paginator.posts %}
 {% if post.big_title %}
+{{content | markdownify}}
 {% else %}
 <article class="post">
   {% if post.img %}
