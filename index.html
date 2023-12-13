@@ -2,7 +2,7 @@
 layout: main
 ---
 {% for post in paginator.posts %}
-{% if post.big_title %}
+{% ifnot post.big_title %}
 <article class="post">
   {% if post.img %}
     <a class="post-thumbnail" style="background-image: url({{"/assets/img/" | prepend: site.baseurl | append : post.img}})" href="{{post.url | prepend: site.baseurl}}"></a>
