@@ -15,4 +15,5 @@ Thus, in this work, we propose a novel 3D hand mesh estimation network HandOccNe
 To this end, we design two successive Transformer-based modules, called feature injecting transformer (FIT) and self-enhancing transformer (SET).
 FIT injects hand information into occluded region by considering their correlation.
 SET refines the output of FIT by using a self-attention mechanism.
-By injecting the hand information to the occluded region, our HandOccNet reaches the state-of-the-art performance on 3D hand mesh benchmarks that contain challenging hand-object occlusions.
+By injecting the hand information to the occluded region, our HandOccNet reaches the state-of-the-art performance on 3D hand mesh benchmarks that contain challenging hand-object occlusions. [[paper](https://arxiv.org/abs/2203.14564)]
+
