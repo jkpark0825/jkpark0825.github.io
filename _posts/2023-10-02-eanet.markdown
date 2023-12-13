@@ -17,4 +17,4 @@ We present EANet, extract-and-adaptation network, with EABlock, the main compone
 Rather than directly utilizing two hand features as input tokens, our EABlock utilizes two complementary types of novel tokens, SimToken and JoinToken, as input tokens.
 Our two novel tokens are from a combination of separated two hand features; hence, it is much more robust to the distant token problem.
 Using the two type of tokens, our EABlock effectively extracts interaction feature and adapts it to each hand.
-The proposed EANet achieves the state-of-the-art performance on 3D interacting hands benchmarks.
+The proposed EANet achieves the state-of-the-art performance on 3D interacting hands benchmarks. [[paper](https://openaccess.thecvf.com/content/ICCV2023W/CV4Metaverse/papers/Park_Extract-and-Adaptation_Network_for_3D_Interacting_Hand_Mesh_Recovery_ICCVW_2023_paper.pdf)]
