@@ -3,7 +3,7 @@ layout: post
 title: Occlusion-Robust 3d Hand Mesh Estimation Network, CVPR, 2022.
 date: 2022-06-19 13:32:20 +0300
 description:  CVPR, 2022. # Add post description (optional)
-img: handoccnet.gif # handoccnet.jpg # Add image post (optional)
+img: https://github.com/jkpark0825/jkpark0825.github.io/assets/70960259/6e50a618-1812-4d8f-b294-58778fdb0c38 # handoccnet.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [3D hands, 3D humans, Occlusion-robust network]
 ---
@@ -16,4 +16,3 @@ To this end, we design two successive Transformer-based modules, called feature 
 FIT injects hand information into occluded region by considering their correlation.
 SET refines the output of FIT by using a self-attention mechanism.
 By injecting the hand information to the occluded region, our HandOccNet reaches the state-of-the-art performance on 3D hand mesh benchmarks that contain challenging hand-object occlusions. [[paper](https://arxiv.org/abs/2203.14564)]
-
