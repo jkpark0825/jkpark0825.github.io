@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Content-Aware Local Gan for Photo-realistic Super-resolution, ICCV, 2023.
+title: Content-Aware Local Gan for Photo-Realistic Super-Resolution, ICCV, 2023.
 date: 2023-10-02 13:32:20 +0300
 description: ICCV, 2023. # Add post description (optional)
 img: cal_gan.jpg # Add image post (optional)
