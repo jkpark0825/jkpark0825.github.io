@@ -15,4 +15,6 @@ However, we find that exclusive usage of the two types of information is sub-opt
 To this end, we propose CoLaNet, a novel framework that adaptively blends context and latent information to inpaint face images.
 Specifically, the two types of information are balanced based on the attention between the missing region and the rest of the image.
 The regions strongly correlated to the visible region leverage context information more.
-Consequently, the adaptive utilization of context and latent information leads to better inpainting performance in various face images.
+Consequently, the adaptive utilization of context and latent information leads to better inpainting performance in various face images. [[paper](https://ieeexplore.ieee.org/document/10349927)] 
+
+
